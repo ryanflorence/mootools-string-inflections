@@ -3,6 +3,13 @@ Type: String {#String}
 
 A collection of the String Object methods and functions.
 
+How to Use
+----------
+
+Use them like any other string method.
+
+    "AnimalCracker".pluralize()
+
 
 Function: String.camelize {#String:String-camelize}
 ---------------------------------------------------
